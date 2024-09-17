@@ -4,6 +4,7 @@ Here are python files that deal with on-line question answering in Persian. The 
 
 
 1. Gpt4api.ipynb - This is a conversational question-answering system designed for scientific Persian documents. It uses a combination of a vector database for document retrieval and OpenAI's language models to generate answers based on the retrieved content.
+2. gradio_chat.ipynb -  interface with gradio
 
 Features
 
